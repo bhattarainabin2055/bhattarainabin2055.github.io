@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/nabin-bhattarai-b01784351
-image: /assets/images/me.jpg
+image: assets/IMG_7412.jpg
 ---

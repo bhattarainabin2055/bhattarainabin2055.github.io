@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: www.linkedin.com/in/nabin-bhattarai-b01784351
+linkedin: https://www.linkedin.com/in/nabin-bhattarai-b01784351
 image: /assets/images/me.jpg
 ---

@@ -16,13 +16,13 @@ about:
     When I’m not working on research, I enjoy watching movies and soccer.
 
   hobbies:
-    - icon: 🎺
+    - icon: ⚽
       title: Playing Soccer
       description: I like playing soccer, but due to injury to my leg it is hard for me to play.
-    - icon: 🤖
+    - icon: 🏏
       title: Watching Sports
       description: I enjoy watching sports like soccer and cricket.
-    - icon: 🕹️
+    - icon: 🐟
       title: Fishing
       description: I love fishing.
 

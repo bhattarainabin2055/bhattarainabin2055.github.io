@@ -4,35 +4,29 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Nabin Bhattarai
+  role: Senior, Computer Science Major at Morgan State University
+  image: assets/IMG_7412.jpg
+  linkedin: https://www.linkedin.com/in/nabin-bhattarai-b01784351
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate in 2026.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    I am doing a research on developing post-game content using AI for automated box scores and video news reports for FIFA Club World Cup 2025.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy watching movies and soccer.
 
   hobbies:
     - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
+      title: Playing Soccer
+      description: I like playing soccer, but due to injury to my leg it is hard for me to play.
     - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+      title: Watching Sports
+      description: I enjoy watching sports like soccer and cricket.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: Fishing
+      description: I love fishing.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: assets/images/IMG_8906.JPG
+      caption: Fishing!
 ---

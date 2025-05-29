@@ -14,13 +14,12 @@ graduate_mentor:
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Edward Robinson
+  title: Professor of Practice, Director; Center for the Study of Race & Culture in Sports, Morgan State University
+  image: assets/images/Edward_robinson.jpg
+  website: https://www.morgan.edu/multimedia-journalism/faculty-and-staff/edward-robinson
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Edward Robinson is a Professor of Practice at Morgan State University, in Baltimore, Md., where he teaches writing and reporting courses. He is also Director of the SGJC Center for the Study of Race and Culture in Sports. He received his undergraduate journalism degree from American University and graduate nonfiction degree from Johns Hopkins University. He is a sports journalist who written for newspapers like The Washington Post and The Pittsburgh Post-Gazette. Robinson worked on a study for ESPN about African-American female athletes and how they deal with negative stereotypes. In 2022, he started the Black SoccerLab, which focuses on soccer in Black communities. He wrote a book in 2014 with basketball coach LeVelle Moton called "The Worst Times Are the Best Times" about turning bad experiences into motivation.
+    As a reporter, Robinson has covered college football, basketball, and professional sports. In 2014, he won The Society of Professional Journalists’ Dateline Award for Excellence in Local Journalism for a story in the Washingtonian Magazine on NBA all-star John Wall. He also has won awards from The Associated Press Sports Editors, The N. C. Press Association, The News & Observer and the National Association of Black Journalists.
 
 ---

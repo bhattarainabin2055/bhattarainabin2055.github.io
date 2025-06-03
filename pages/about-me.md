@@ -9,7 +9,7 @@ about:
   image: assets/IMG_7412.jpg
   linkedin: https://www.linkedin.com/in/nabin-bhattarai-b01784351
   bio: |
-    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate in 2026.
+    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate in 2026. I am originally from Nepal and have been residing in MD, USA for past six years.
 
     I am doing a research on developing post-game content using AI for automated box scores and video news reports for FIFA Club World Cup 2025.
 

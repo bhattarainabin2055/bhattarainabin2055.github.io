@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Daniel Owolabi
   title: Masters Student, Advanced Computing
-  image: assets/images/Graduate_assistant.jpg
+  image: assets/images/Graduate_mentor.jpg
   website: https://www.linkedin.com/in/owolabi-daniel-olusayo/
   bio: |
     Daniel Owolabi is currently pursuing a Master's in Advanced Computing at Morgan State University. He is also a Graduate Research Assistant at Morgan State University, where he focuses on deriving transit performance metrics using GTFS data. He uses Python and SQL to clean, store, and analyze large transit datasets, helping to improve transportation efficiency. With a background in Political Science from Crawford University and experience in roles ranging from graphic design to administrative support, Daniel combines strong analytical and organizational skills.

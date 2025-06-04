@@ -29,4 +29,6 @@ about:
   gallery:
     - image: assets/images/IMG_8906.JPG
       caption: Fishing!
+    - image: assets/images/IMG_6826.jpg
+      caption: Playing Snooker!
 ---
